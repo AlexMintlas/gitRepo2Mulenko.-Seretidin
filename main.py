@@ -1,3 +1,5 @@
+def my_superfunction():
+    print("Много принтов богу принтов")
 def main():
     print("Первый принт")
     print("Новый день новый принт")
@@ -7,3 +9,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+print(1)
