@@ -1,3 +1,5 @@
+def my_superfunction():
+    print("Много принтов богу принтов")
 def main():
     print("Первый принт")
     print("Новый день новый принт")
